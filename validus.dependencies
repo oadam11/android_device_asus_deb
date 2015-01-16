@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "Team-Validus/device_asus_flo",
+   "target_path": "device/asus/flo",
+   "branch": "lp5.0"
+ }
+]
